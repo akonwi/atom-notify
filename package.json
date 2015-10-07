@@ -1,0 +1,23 @@
+{
+  "name": "atom-notify",
+  "version": "1.0.0",
+  "description": "Simple methods for atom notifications",
+  "main": "index.coffee",
+  "scripts": {
+    "test": "apm test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/akonwi/atom-notify.git"
+  },
+  "keywords": [
+    "atom",
+    "notifications"
+  ],
+  "author": "akonwi",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/akonwi/atom-notify/issues"
+  },
+  "homepage": "https://github.com/akonwi/atom-notify#readme"
+}
